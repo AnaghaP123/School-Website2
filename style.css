@@ -1,0 +1,18 @@
+#video
+{
+    width: 100%;
+    height: 500px;
+    border: none;;
+}
+.campuslife_divs
+{
+    border: 1px solid lightgrey
+}
+#cl1, #cl2, #cl3
+{
+    width: 100%
+}
+#clt1, #clp1, #clt2, #clp2, #clt3, #clp3
+{
+ margin: 20px
+}
